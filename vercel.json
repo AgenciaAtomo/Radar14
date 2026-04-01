@@ -1,0 +1,6 @@
+{
+  "rewrites": [{ "source": "/(?!api/)(.*)", "destination": "/atomo-finance-app.html" }],
+  "functions": {
+    "api/analisar-extrato.js": { "maxDuration": 30 }
+  }
+}
