@@ -1,3 +1,0 @@
-{
-  "rewrites": [{ "source": "/(.*)", "destination": "/atomo-finance-app.html" }]
-}
